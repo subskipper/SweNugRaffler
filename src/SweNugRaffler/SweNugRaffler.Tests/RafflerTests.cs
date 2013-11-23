@@ -39,7 +39,7 @@ namespace SweNugRaffler.Tests
 
             string winner = raffler.GetRandomWinner();
 
-            Assert.IsNotNullOrEmpty(winner);;
+            Assert.IsNotNullOrEmpty(winner);
         }
 
         [Test]
