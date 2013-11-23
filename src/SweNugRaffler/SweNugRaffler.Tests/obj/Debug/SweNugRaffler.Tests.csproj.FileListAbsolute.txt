@@ -1,0 +1,9 @@
+D:\GitRepos\SweNugRaffler\src\SweNugRaffler\SweNugRaffler.Tests\obj\Debug\SweNugRaffler.Tests.csprojResolveAssemblyReference.cache
+D:\GitRepos\SweNugRaffler\src\SweNugRaffler\SweNugRaffler.Tests\bin\Debug\SweNugRaffler.Tests.dll
+D:\GitRepos\SweNugRaffler\src\SweNugRaffler\SweNugRaffler.Tests\bin\Debug\SweNugRaffler.Tests.pdb
+D:\GitRepos\SweNugRaffler\src\SweNugRaffler\SweNugRaffler.Tests\bin\Debug\nunit.framework.dll
+D:\GitRepos\SweNugRaffler\src\SweNugRaffler\SweNugRaffler.Tests\bin\Debug\SweNugRaffler.Core.dll
+D:\GitRepos\SweNugRaffler\src\SweNugRaffler\SweNugRaffler.Tests\bin\Debug\SweNugRaffler.Core.pdb
+D:\GitRepos\SweNugRaffler\src\SweNugRaffler\SweNugRaffler.Tests\bin\Debug\nunit.framework.xml
+D:\GitRepos\SweNugRaffler\src\SweNugRaffler\SweNugRaffler.Tests\obj\Debug\SweNugRaffler.Tests.dll
+D:\GitRepos\SweNugRaffler\src\SweNugRaffler\SweNugRaffler.Tests\obj\Debug\SweNugRaffler.Tests.pdb

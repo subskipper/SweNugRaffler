@@ -1,0 +1,4 @@
+D:\GitRepos\SweNugRaffler\src\SweNugRaffler\SweNugRaffler.Core\bin\Debug\SweNugRaffler.Core.dll
+D:\GitRepos\SweNugRaffler\src\SweNugRaffler\SweNugRaffler.Core\bin\Debug\SweNugRaffler.Core.pdb
+D:\GitRepos\SweNugRaffler\src\SweNugRaffler\SweNugRaffler.Core\obj\Debug\SweNugRaffler.Core.dll
+D:\GitRepos\SweNugRaffler\src\SweNugRaffler\SweNugRaffler.Core\obj\Debug\SweNugRaffler.Core.pdb
