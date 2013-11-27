@@ -9,12 +9,18 @@
     @using (Html.BeginForm("Index", "Home"))
     {
         <div class="row">
-            @Html.LabelFor(m => m.FullName)
-            @Html.TextBoxFor(m => m.FullName)
-            @Html.LabelFor(m => m.Email)
-            @Html.TextBoxFor(m => m.Email)
-            @Html.LabelFor(m => m.Company)
-            @Html.TextBoxFor(m => m.Company)
+            <div class="label-wrapper">
+                @Html.LabelFor(m => m.FullName)
+                @Html.TextBoxFor(m => m.FullName)
+            </div>
+            <div class="label-wrapper">
+                @Html.LabelFor(m => m.Email)
+                @Html.TextBoxFor(m => m.Email)
+            </div>    
+            <div class="label-wrapper">
+                @Html.LabelFor(m => m.Company)
+                @Html.TextBoxFor(m => m.Company)
+            </div>
         </div>
         
         <p>

@@ -40,3 +40,25 @@ input[type="checkbox"].input-validation-error {
 .validation-summary-valid {
     display: none;
 }
+
+.textbox {
+    float: left;
+    height: 30px;
+    width: 200px;
+}
+
+.info-label {
+    
+    float: right;
+}
+
+div.label-wrapper{
+  position:relative;
+  width: 400px; /* Set this to however far you want that right align to be from the left */
+}
+div.label-wrapper > label{
+    display: block;
+}
+div.label-wrapper > input[type=text] {
+    display: block;
+}
